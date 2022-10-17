@@ -13,9 +13,10 @@ root.render(
       <div className="row content-center">
         <React.StrictMode>
           <App />
-        </React.StrictMode>       
+        </React.StrictMode>
+        <Footer />       
       </div>
     </div>    
-    <Footer />
+    
   </>
 );

@@ -9,7 +9,7 @@ export default function List({ data, category }) {
   } else {
     return menu.map((Item) => {
       return (
-        <div className="col-12 col-md-6 col-xl-4">
+        <div id="Card" className="col-12 col-md-6 col-xl-4">
           <div className="card text-center">
             <div className="card-header">{category}</div>
             <div className="card-body">
