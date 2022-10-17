@@ -1,10 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import Bootstrap from ''
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.js";
+import App from "./App";
+import Footer from "./Footer";
+import './index.css'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
-  
-  </React.StrictMode>
+  <> 
+    <div className="container vh-100 rounded">
+      <div className="row content-center">
+        <React.StrictMode>
+          <App />
+          <Footer />
+        </React.StrictMode>       
+      </div>
+    </div>    
+  </>
 );
