@@ -17,12 +17,12 @@ export default function ApiCall() {
       });
   }, []);
 
-  if (data.length === 0) {
-    return <Loading />;
-  } else {
+  // if (data.length === 0) {
+  //   return <Loading />;
+  // } else {
     return (
     <Header data={data} />
     )
   } 
-}
+// }
 

@@ -1,0 +1,142 @@
+[
+    {
+    "category": "Lunch",
+    "title": "Grilled Portobello Mushroom Sandwich",
+    "description": "Marinated and grilled portobello mushroom cap served on a toasted bun with lettuce, tomato, onion, and garlic aioli.",
+    "spicy_level": 1,
+    "price": 12.99
+    },    
+    {
+    "category": "Breakfast",
+    "title": "French Toast",
+    "description": "Thick slices of bread soaked in egg batter, fried to perfection, and served with butter and maple syrup.",
+    "spicy_level": 1,
+    "price": 9.99
+    },
+    {
+    "category": "Dinner",
+    "title": "Chicken Parmesan",
+    "description": "Breaded chicken breast topped with tomato sauce and melted mozzarella cheese, served with a side of spaghetti.",
+    "spicy_level": 1,
+    "price": 18.99
+    },
+    {
+    "category": "Lunch",
+    "title": "BLT Sandwich",
+    "description": "Toasted bread filled with crispy bacon, lettuce, and tomato, served with a side of French fries.",
+    "spicy_level": 1,
+    "price": 11.99
+    },
+    {
+    "category": "Breakfast",
+    "title": "Eggs Benedict",
+    "description": "Two poached eggs served on top of Canadian bacon and an English muffin, topped with hollandaise sauce.",
+    "spicy_level": 1,
+    "price": 12.99
+    },
+    {
+    "category": "Dessert",
+    "title": "Chocolate Lava Cake",
+    "description": "A warm, gooey chocolate cake with a melted chocolate center, served with a scoop of vanilla ice cream.",
+    "spicy_level": 1,
+    "price": 8.99
+    },
+    {
+    "category": "Dinner",
+    "title": "Beef Stroganoff",
+    "description": "Tender strips of beef cooked in a rich, creamy sauce and served over a bed of egg noodles.",
+    "spicy_level": 2,
+    "price": 19.99
+    },
+    {
+    "category": "Lunch",
+    "title": "Caesar Salad",
+    "description": "Crisp romaine lettuce tossed with our housemade Caesar dressing, croutons, and grated Parmesan cheese.",
+    "spicy_level": 1,
+    "price": 10.99
+    },
+    {
+    "category": "Breakfast",
+    "title": "Avocado Toast",
+    "description": "Toasted bread topped with mashed avocado, cherry tomatoes, and a sprinkle of feta cheese.",
+    "spicy_level": 1,
+    "price": 11.99
+    },
+    {
+    "category": "Dessert",
+    "title": "Key Lime Pie",
+    "description": "A tangy, refreshing pie made with fresh key lime juice and graham cracker crust.",
+    "spicy_level": 1,
+    "price": 7.99
+    },
+    {
+    "category": "Dinner",
+    "title": "Grilled Salmon",
+    "description": "Fresh salmon fillet grilled to perfection and served with a side of mixed greens and quinoa.",
+    "spicy_level": 1,
+    "price": 24.99
+    },
+    {
+    "category": "Lunch",
+    "title": "Classic Cheeseburger",
+    "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, and onion on a sesame seed bun.",
+    "spicy_level": 1,
+    "price": 14.99
+    },
+    {
+    "category": "Breakfast",
+    "title": "Buttermilk Pancakes",
+    "description": "Fluffy buttermilk pancakes served with butter and maple syrup.",
+    "spicy_level": 1,
+    "price": 9.99
+    },
+    {
+    "category": "Dessert",
+    "title": "Chocolate Brownie Sundae",
+    "description": "A warm chocolate brownie served with vanilla ice cream and drizzled with chocolate sauce.",
+    "spicy_level": 1,
+    "price": 8.99
+    },
+    {
+    "category": "Dinner",
+    "title": "Filet Mignon",
+    "description": "8 oz. tender cut of beef served with a side of roasted vegetables and mashed potatoes.",
+    "spicy_level": 1,
+    "price": 32.99
+    },
+    {
+    "category": "Appetizer",
+    "title": "Crab Cakes",
+    "description": "Pan-fried cakes made with lump crab meat, breadcrumbs, and herbs, served with a side of remoulade sauce.",
+    "spicy_level": 1,
+    "price": 10.99
+    },
+    {
+    "category": "Appetizer",
+    "title": "Bruschetta",
+    "description": "Toasted slices of bread topped with a mixture of fresh tomatoes, garlic, basil, and olive oil.",
+    "spicy_level": 1,
+    "price": 7.99
+    },
+    {
+    "category": "Appetizer",
+    "title": "Spinach and Artichoke Dip",
+    "description": "A warm and creamy dip made with spinach, artichokes, and a blend of cheeses, served with tortilla chips.",
+    "spicy_level": 1,
+    "price": 7.99
+    },
+    {
+    "category": "Appetizer",
+    "title": "Stuffed Mushrooms",
+    "description": "Mushroom caps filled with a mixture of cream cheese, herbs, and breadcrumbs, baked until golden brown.",
+    "spicy_level": 2,
+    "price": 8.99
+    },
+    {
+    "category": "Appetizer",
+    "title": "Garlic Bread",
+    "description": "Toasted slices of bread rubbed with garlic and olive oil, served with a side of marinara sauce.",
+    "spicy_level": 1,
+    "price": 6.99
+    }                      
+]

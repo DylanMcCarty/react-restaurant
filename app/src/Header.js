@@ -37,7 +37,7 @@ export default function Header(props) {
     <>
       <div className="container">
         <div className="row align-content-center" style={{ height: 100 }}>
-          <h1 className="text-center">Big Boi Restaurant for Big Bois</h1>
+          <h1 className="text-center">Rando Restaurant</h1>
         </div>
         <div className="row" style={{ height: 60 }}>
           <div className="dropdown">

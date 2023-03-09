@@ -2,10 +2,18 @@ import HomePage from "./HomePage";
 import SpicyLevel from "./SpicyLevel";
 
 export default function List({ data, category }) {
-  let menu = data.data.filter((item) => item.category.title === category);
+  
+  const data2 = require('./restaurant.json')
+  console.log(data2)
+  
+  let menu = data2.filter((item) => item.category === category);
 
   if (category === "Home") {
-    return <HomePage />;
+    return (
+      <div className="container-fluid">
+        <HomePage />;
+      </div>
+    )
   } else {
     return menu.map((Item) => {
       return (

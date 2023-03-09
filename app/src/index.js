@@ -9,7 +9,7 @@ import './index.css'
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <> 
-    <div className="container vh-100 rounded">
+    <div className="container-fluid vh-100 rounded">
       <div className="row content-center">
         <React.StrictMode>
           <App />
